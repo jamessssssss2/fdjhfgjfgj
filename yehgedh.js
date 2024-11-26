@@ -1,7 +1,7 @@
 // Get the modal 
-var popup = document.getElementById("popup"); 
+//var popup = document.getElementById("popup"); 
 
-popup.style.display = "block"; 
+//popup.style.display = "block"; 
 
 // Get the button that opens the modal 
 //var btn = document.getElementById("openPopup"); 
