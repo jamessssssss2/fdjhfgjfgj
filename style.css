@@ -18,15 +18,14 @@ body {
 
 .popup-image {
   width: 500px; /* Adjust size as needed */
-  height: auto;
+  height: 500px;
   margin-right: 20px;
   border-radius: 8px; /* Optional for rounded corners */
 }
 
 .popup-content { 
     background-color: #fefefe; 
-    margin-right: -20px;
-    padding: 20px; 
+    padding: -20px; 
     border: 1px solid #888; 
     width: 80%; /* Could be more or less, depending on screen size */ 
 } 
